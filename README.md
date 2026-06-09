@@ -77,8 +77,12 @@ The dataset contains football games data with the following files:
 
 ### 5. Power BI Dashboard (`dashboard.png`)
 - Built an interactive dashboard with filters and slicers
-- Visualized key KPIs: top clubs, player stats, national performance
-- Used cards, bar charts, and tables for clear insights
+- **KPI Cards:** Total Players, Total Rating, Nationality Count, Avg Speed
+- **Map Visual:** Nationality-wise geographic distribution of players
+- **Pie Chart:** Max Rating by Club (Zenit, Zulte-W, Yokoha, ZagAGA, Yaovil T)
+- **Scatter Chart:** Average Speed vs Average Age by Club
+- **Bar Chart:** Max Rating by Player Name
+- **Filters/Slicers:** Month slicer, Club filter, Nationality filter, Name filter
 
 ---
 
@@ -119,9 +123,12 @@ jupyter notebook
 
 ## 🎯 Key Insights
 
-- Analyzed match data across multiple clubs and national teams
-- Identified top performing players using statistical aggregations
-- Visualized performance trends using Python and Power BI
+- Analyzed player data across multiple clubs and national teams
+- Tracked **Max Rating by Club** — top clubs include Zenit, Zulte-W, Yokoha, and others
+- Visualized **geographic distribution** of players by nationality using map visual
+- Compared **Average Speed vs Average Age** across clubs using scatter plot
+- Identified **Max Rating by Player Name** using bar chart analysis
+- Dashboard includes **month-wise filtering** for time-based analysis
 
 ---
 
