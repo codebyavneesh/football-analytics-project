@@ -1,0 +1,634 @@
+Name,url
+FC Bayern,/team/21/fc-bayern/
+Real Madrid,/team/243/real-madrid/
+FC Barcelona,/team/241/fc-barcelona/
+Juventus,/team/45/juventus/
+Manchester Utd,/team/11/manchester-utd/
+Chelsea,/team/5/chelsea/
+PSG,/team/73/psg/
+Arsenal,/team/1/arsenal/
+Atlético Madrid,/team/240/atl%C3%A9tico-madrid/
+Manchester City,/team/10/manchester-city/
+Bor. Dortmund,/team/22/bor-dortmund/
+Napoli,/team/48/napoli/
+Spurs,/team/18/spurs/
+Liverpool,/team/9/liverpool/
+Inter,/team/44/inter/
+Sevilla FC,/team/481/sevilla-fc/
+Roma,/team/52/roma/
+Everton,/team/7/everton/
+Villarreal CF,/team/483/villarreal-cf/
+Bayer 04,/team/32/bayer-04/
+VfL Wolfsburg,/team/175/vfl-wolfsburg/
+SL Benfica,/team/234/sl-benfica/
+Lazio,/team/46/lazio/
+Milan,/team/47/milan/
+Athletic Bilbao,/team/448/athletic-bilbao/
+Olym. Lyonnais,/team/66/olym-lyonnais/
+Bor. M'gladbach,/team/23/bor-mgladbach/
+AS Monaco,/team/69/as-monaco/
+FC Porto,/team/236/fc-porto/
+Valencia CF,/team/461/valencia-cf/
+FC Schalke 04,/team/34/fc-schalke-04/
+Crystal Palace,/team/1799/crystal-palace/
+Fiorentina,/team/110374/fiorentina/
+Celta Vigo,/team/450/celta-vigo/
+Zenit,/team/100769/zenit/
+Real Sociedad,/team/457/real-sociedad/
+Sporting CP,/team/237/sporting-cp/
+West Ham,/team/19/west-ham/
+Leicester City,/team/95/leicester-city/
+Southampton,/team/17/southampton/
+Stoke City,/team/1806/stoke-city/
+Beşiktaş,/team/327/be%C5%9Fikta%C5%9F/
+Olym. Marseille,/team/219/olym-marseille/
+UD Las Palmas,/team/472/ud-las-palmas/
+OGC Nice,/team/72/ogc-nice/
+Real Betis,/team/449/real-betis/
+Torino,/team/54/torino/
+Fenerbahçe,/team/326/fenerbah%C3%A7e/
+RCD Espanyol,/team/452/rcd-espanyol/
+Swansea City,/team/1960/swansea-city/
+Galatasaray,/team/325/galatasaray/
+Watford,/team/1795/watford/
+1899 Hoffenheim,/team/10029/1899-hoffenheim/
+Hertha BSC,/team/166/hertha-bsc/
+Málaga CF,/team/573/m%C3%A1laga-cf/
+1. FC Köln,/team/31/1-fc-k%C3%B6ln/
+Spartak Moscow,/team/100767/spartak-moscow/
+Shakhtar Donetsk,/team/101059/shakhtar-donetsk/
+Sunderland,/team/106/sunderland/
+SD Eibar,/team/467/sd-eibar/
+Werder Bremen,/team/38/werder-bremen/
+RC Deportivo,/team/242/rc-deportivo/
+1. FSV Mainz 05,/team/169/1-fsv-mainz-05/
+FC Augsburg,/team/100409/fc-augsburg/
+PSV,/team/247/psv/
+FC Krasnodar,/team/112218/fc-krasnodar/
+Sassuolo,/team/111974/sassuolo/
+Feyenoord,/team/246/feyenoord/
+SC Braga,/team/1896/sc-braga/
+Udinese,/team/55/udinese/
+Chievo Verona,/team/192/chievo-verona/
+AS Saint-Étienne,/team/1819/as-saint-%C3%A9tienne/
+Lokomotiv Moscow,/team/100765/lokomotiv-moscow/
+CSKA Moscow,/team/315/cska-moscow/
+West Brom,/team/109/west-brom/
+Middlesbrough,/team/12/middlesbrough/
+Giron. Bordeaux,/team/59/giron-bordeaux/
+Rubin Kazan,/team/110227/rubin-kazan/
+Sampdoria,/team/1837/sampdoria/
+Atalanta,/team/39/atalanta/
+Stade Rennais,/team/74/stade-rennais/
+Deport. Alavés,/team/463/deport-alav%C3%A9s/
+Hull City,/team/1952/hull-city/
+Bologna,/team/189/bologna/
+Ajax,/team/245/ajax/
+Hamburger SV,/team/28/hamburger-sv/
+Club Brugge,/team/231/club-brugge/
+LOSC Lille,/team/65/losc-lille/
+Genoa,/team/110556/genoa/
+CD Leganés,/team/100888/cd-legan%C3%A9s/
+Eint. Frankfurt,/team/1824/eint-frankfurt/
+Tigres,/team/1970/tigres/
+RSC Anderlecht,/team/229/rsc-anderlecht/
+Medipol Başakşehir,/team/101014/medipol-ba%C5%9Fak%C5%9Fehir/
+San Lorenzo,/team/1013/san-lorenzo/
+FC Basel,/team/896/fc-basel/
+Monterrey,/team/1032/monterrey/
+Levante UD,/team/1853/levante-ud/
+River Plate,/team/1876/river-plate/
+Bournemouth,/team/1943/bournemouth/
+Boca Juniors,/team/1877/boca-juniors/
+FC Rostov,/team/110231/fc-rostov/
+Newcastle Utd,/team/13/newcastle-utd/
+Granada CF,/team/110832/granada-cf/
+Toulouse FC,/team/1809/toulouse-fc/
+Montpellier HSC,/team/70/montpellier-hsc/
+CA Osasuna,/team/479/ca-osasuna/
+RB Leipzig,/team/112172/rb-leipzig/
+Olympiakos CFP,/team/280/olympiakos-cfp/
+Burnley,/team/1796/burnley/
+EA Guingamp,/team/62/ea-guingamp/
+Osmanlıspor,/team/112958/osmanl%C4%B1spor/
+Cagliari,/team/1842/cagliari/
+Sporting Gijón,/team/459/sporting-gij%C3%B3n/
+FC Nantes,/team/71/fc-nantes/
+FC Lorient,/team/217/fc-lorient/
+Trabzonspor,/team/436/trabzonspor/
+Norwich,/team/1792/norwich/
+Panathinaikos,/team/1884/panathinaikos/
+Aston Villa,/team/2/aston-villa/
+VfB Stuttgart,/team/36/vfb-stuttgart/
+V. Guimarães,/team/1887/v-guimar%C3%A3es/
+Racing Club,/team/101085/racing-club/
+Celtic,/team/78/celtic/
+SC Freiburg,/team/25/sc-freiburg/
+Empoli,/team/1746/empoli/
+KRC Genk,/team/673/krc-genk/
+KAA Gent,/team/674/kaa-gent/
+Angers SCO,/team/1530/angers-sco/
+FC Ingolstadt,/team/111239/fc-ingolstadt/
+SM Caen,/team/210/sm-caen/
+AZ,/team/1906/az/
+Brighton,/team/1808/brighton/
+Colo-Colo,/team/110980/colo-colo/
+Antalyaspor,/team/741/antalyaspor/
+FC Metz,/team/68/fc-metz/
+Lanús,/team/110395/lan%C3%BAs/
+Legia Warszawa,/team/1871/legia-warszawa/
+Standard Liège,/team/232/standard-li%C3%A8ge/
+América,/team/1879/am%C3%A9rica/
+Leeds United,/team/8/leeds-united/
+Toluca,/team/1882/toluca/
+Fulham,/team/144/fulham/
+Palermo,/team/1843/palermo/
+Hannover 96,/team/485/hannover-96/
+PAOK,/team/393/paok/
+Uni. Católica,/team/110975/uni-cat%C3%B3lica/
+Bursaspor,/team/742/bursaspor/
+Atl. Nacional,/team/101100/atl-nacional/
+Cruz Azul,/team/1878/cruz-azul/
+Independiente,/team/110093/independiente/
+Sheffield Wed,/team/1807/sheffield-wed/
+V. Setúbal,/team/665/v-set%C3%BAbal/
+Getafe CF,/team/1860/getafe-cf/
+Pescara,/team/200/pescara/
+Rio Ave,/team/744/rio-ave/
+SC Bastia,/team/58/sc-bastia/
+Vitesse,/team/1909/vitesse/
+Guadalajara,/team/1880/guadalajara/
+FC København,/team/819/fc-k%C3%B8benhavn/
+Marítimo,/team/1893/mar%C3%ADtimo/
+SV Darmstadt,/team/110502/sv-darmstadt/
+Rosario Central,/team/110580/rosario-central/
+U.N.A.M.,/team/1881/u-n-a-m/
+León,/team/110781/le%C3%B3n/
+SC Heerenveen,/team/1913/sc-heerenveen/
+Monarcas Morelia,/team/1028/monarcas-morelia/
+Kayserispor,/team/101020/kayserispor/
+Ind. Santa Fe,/team/101104/ind-santa-fe/
+Tijuana,/team/111678/tijuana/
+Al Hilal,/team/605/al-hilal/
+Bari,/team/1848/bari/
+Dijon FCO,/team/110569/dijon-fco/
+Boavista,/team/1898/boavista/
+Rayo Vallecano,/team/480/rayo-vallecano/
+Konyaspor,/team/101033/konyaspor/
+Arouca,/team/112513/arouca/
+Hellas Verona,/team/206/hellas-verona/
+Gaziantepspor,/team/101024/gaziantepspor/
+Santos Laguna,/team/110144/santos-laguna/
+1860 München,/team/33/1860-m%C3%BCnchen/
+Indep. Medellín,/team/101103/indep-medell%C3%ADn/
+Pachuca,/team/110147/pachuca/
+Derby County,/team/91/derby-county/
+Birmingham City,/team/88/birmingham-city/
+Grêmio,/team/1629/gr%C3%AAmio/
+Terek Grozny,/team/110109/terek-grozny/
+A. Minas G.,/team/112001/a-minas-g/
+Zulte-Waregem,/team/15005/zulte-waregem/
+BSC Young Boys,/team/900/bsc-young-boys/
+Reading,/team/1793/reading/
+Paços Ferreira,/team/1892/pa%C3%A7os-ferreira/
+Palmeiras,/team/383/palmeiras/
+Girona CF,/team/110062/girona-cf/
+Chaves,/team/518/chaves/
+FC Utrecht,/team/1903/fc-utrecht/
+Real Valladolid,/team/462/real-valladolid/
+Wolves,/team/110/wolves/
+Botafogo,/team/517/botafogo/
+Estudiantes,/team/101083/estudiantes/
+Fluminense,/team/567/fluminense/
+KV Oostende,/team/682/kv-oostende/
+QPR,/team/15/qpr/
+Uni. de Chile,/team/15029/uni-de-chile/
+Atl. Paranaense,/team/1039/atl-paranaense/
+Internacional,/team/1048/internacional/
+Al Ahli,/team/112387/al-ahli/
+Toronto FC,/team/111651/toronto-fc/
+Portland,/team/111140/portland/
+LA Galaxy,/team/697/la-galaxy/
+Deportivo Cali,/team/101102/deportivo-cali/
+Aytemiz Alanyaspor,/team/113142/aytemiz-alanyaspor/
+Columbus Crew SC,/team/687/columbus-crew-sc/
+Nott'm Forest,/team/14/nottm-forest/
+Real Oviedo,/team/110827/real-oviedo/
+Junior,/team/101101/junior/
+Lech Poznań,/team/873/lech-pozna%C5%84/
+Bristol City,/team/1919/bristol-city/
+Ponte Preta,/team/111043/ponte-preta/
+NYCFC,/team/112828/nycfc/
+Santa Cruz,/team/111058/santa-cruz/
+Rosenborg BK,/team/298/rosenborg-bk/
+Kasimpaşa,/team/111339/kasimpa%C5%9Fa/
+Huddersfield,/team/1939/huddersfield/
+CD Tenerife,/team/260/cd-tenerife/
+Akhisarspor,/team/111340/akhisarspor/
+Brentford,/team/1925/brentford/
+Karabükspor,/team/112122/karab%C3%BCkspor/
+Sp. Charleroi,/team/670/sp-charleroi/
+Ipswich,/team/94/ipswich/
+Querétaro,/team/110150/quer%C3%A9taro/
+Gimnàstic,/team/15019/gimn%C3%A0stic/
+Chiapas,/team/112679/chiapas/
+Veracruz,/team/110145/veracruz/
+Jeonbuk Hyundai,/team/1477/jeonbuk-hyundai/
+UD Almería,/team/1861/ud-almer%C3%ADa/
+São Paulo,/team/598/s%C3%A3o-paulo/
+Stade de Reims,/team/379/stade-de-reims/
+Suwon Bluewings,/team/983/suwon-bluewings/
+Sounders FC,/team/111144/sounders-fc/
+Crotone,/team/110734/crotone/
+Santos,/team/1053/santos/
+Real Zaragoza,/team/244/real-zaragoza/
+Union Berlin,/team/1831/union-berlin/
+Cádiz C.F.,/team/1968/c%C3%A1diz-c-f/
+Figueirense,/team/111045/figueirense/
+Elche CF,/team/468/elche-cf/
+SD Huesca,/team/110839/sd-huesca/
+Carpi,/team/112409/carpi/
+Cardiff City,/team/1961/cardiff-city/
+AS Nancy,/team/1823/as-nancy/
+Kaizer Chiefs,/team/110929/kaizer-chiefs/
+1. FC Nürnberg,/team/171/1-fc-n%C3%BCrnberg/
+Orlando City,/team/112606/orlando-city/
+FC Dallas,/team/695/fc-dallas/
+Braunschweig,/team/110500/braunschweig/
+Urawa Diamonds,/team/111575/urawa-diamonds/
+Chicago Fire,/team/693/chicago-fire/
+Gençlerbirliği,/team/101025/gen%C3%A7lerbirli%C4%9Fi/
+Orlando Pirates,/team/110930/orlando-pirates/
+Belenenses,/team/1889/belenenses/
+Malmö FF,/team/320/malm%C3%B6-ff/
+RB Salzburg,/team/191/rb-salzburg/
+FC Midtjylland,/team/1516/fc-midtjylland/
+Whitecaps FC,/team/101112/whitecaps-fc/
+Çaykur Rizespor,/team/101037/%C3%A7aykur-rizespor/
+Montreal Impact,/team/111139/montreal-impact/
+Deportes Tolima,/team/111722/deportes-tolima/
+Newell's,/team/110396/newells/
+AD Alcorcón,/team/100831/ad-alcorc%C3%B3n/
+Coritiba,/team/111044/coritiba/
+FC Sion,/team/110770/fc-sion/
+Sporting KC,/team/696/sporting-kc/
+FC Seoul,/team/982/fc-seoul/
+NY Red Bulls,/team/689/ny-red-bulls/
+Chapecoense,/team/112476/chapecoense/
+Al Nassr,/team/112139/al-nassr/
+Atlético Tucumán,/team/111708/atl%C3%A9tico-tucum%C3%A1n/
+CD Lugo,/team/110831/cd-lugo/
+KV Mechelen,/team/110724/kv-mechelen/
+Adanaspor,/team/110401/adanaspor/
+CF Reus Deportiu,/team/110854/cf-reus-deportiu/
+KV Kortrijk,/team/100081/kv-kortrijk/
+Vitória,/team/1719/vit%C3%B3ria/
+Millonarios,/team/101105/millonarios/
+F. Düsseldorf,/team/110636/f-d%C3%BCsseldorf/
+Atlas,/team/101114/atlas/
+FC Ural,/team/111264/fc-ural/
+Necaxa,/team/101121/necaxa/
+Frosinone,/team/111657/frosinone/
+FC Ufa,/team/110822/fc-ufa/
+Real Salt Lake,/team/111065/real-salt-lake/
+Moreirense,/team/1900/moreirense/
+FC St. Pauli,/team/110329/fc-st-pauli/
+Belgrano,/team/111022/belgrano/
+Santa Fe,/team/110406/santa-fe/
+Estoril Praia,/team/10020/estoril-praia/
+Lechia Gdańsk,/team/111091/lechia-gda%C5%84sk/
+FC Groningen,/team/1915/fc-groningen/
+Córdoba CF,/team/1867/c%C3%B3rdoba-cf/
+CD Numancia,/team/477/cd-numancia/
+Anzhi Makhachkala,/team/100766/anzhi-makhachkala/
+Cruzeiro,/team/568/cruzeiro/
+CD O'Higgins,/team/112116/cd-ohiggins/
+FC Twente,/team/1908/fc-twente/
+Cesena,/team/110915/cesena/
+F. Santa Maria,/team/10019/f-santa-maria/
+Nacional,/team/1891/nacional/
+La Spezia,/team/110741/la-spezia/
+Krylya Sovetov,/team/100764/krylya-sovetov/
+Heracles Almelo,/team/100634/heracles-almelo/
+Sint-Truiden,/team/680/sint-truiden/
+Greuther Fürth,/team/165/greuther-f%C3%BCrth/
+Willem II,/team/1907/willem-ii/
+VfL Bochum,/team/160/vfl-bochum/
+Rangers,/team/86/rangers/
+Salerno,/team/110373/salerno/
+Goiás,/team/111042/goi%C3%A1s/
+Sport,/team/111057/sport/
+RCD Mallorca,/team/453/rcd-mallorca/
+G. La Plata,/team/101084/g-la-plata/
+Kaiserslautern,/team/29/kaiserslautern/
+Philadelphia,/team/112134/philadelphia/
+D.C. United,/team/688/d-c-united/
+Wigan Athletic,/team/1917/wigan-athletic/
+Joinville,/team/111054/joinville/
+Criciúma,/team/111046/crici%C3%BAma/
+Godoy Cruz,/team/111706/godoy-cruz/
+Preston,/team/1801/preston/
+Atlético Mineiro,/team/1035/atl%C3%A9tico-mineiro/
+Sevilla Atlét.,/team/110714/sevilla-atl%C3%A9t/
+Arsenal Tula,/team/110756/arsenal-tula/
+Parque Patricios,/team/111711/parque-patricios/
+Vélez Sarsfield,/team/101088/v%C3%A9lez-sarsfield/
+New England,/team/691/new-england/
+Kawasaki Front.,/team/111730/kawasaki-front/
+Benevento,/team/112026/benevento/
+Le Havre AC,/team/1738/le-havre-ac/
+Brøndby IF,/team/269/br%C3%B8ndby-if/
+Tigre,/team/111715/tigre/
+Novara,/team/112225/novara/
+Houston Dynamo,/team/698/houston-dynamo/
+Unión Española,/team/110977/uni%C3%B3n-espa%C3%B1ola/
+Vicenza,/team/112954/vicenza/
+Kashima Antlers,/team/101147/kashima-antlers/
+Sport. Lokeren,/team/2007/sport-lokeren/
+Atlético Bucaramanga,/team/112992/atl%C3%A9tico-bucaramanga/
+F.C. Tokyo,/team/101150/f-c-tokyo/
+SV Sandhausen,/team/110178/sv-sandhausen/
+Blackburn Rovers,/team/3/blackburn-rovers/
+SK Rapid Wien,/team/254/sk-rapid-wien/
+Arminia Bielefeld,/team/159/arminia-bielefeld/
+GFC Ajaccio,/team/110316/gfc-ajaccio/
+ADO Den Haag,/team/650/ado-den-haag/
+Charlton Ath,/team/89/charlton-ath/
+RC Lens,/team/64/rc-lens/
+Uni. Concepción,/team/112534/uni-concepci%C3%B3n/
+Wisła Kraków,/team/1873/wis%C5%82a-krak%C3%B3w/
+Waasl. Beveren,/team/110913/waasl-beveren/
+Al Ittihad,/team/607/al-ittihad/
+Sanfrecce Hiroshima,/team/113157/sanfrecce-hiroshima/
+Roda JC,/team/1902/roda-jc/
+Stade Brestois,/team/378/stade-brestois/
+SJ Earthquakes,/team/111928/sj-earthquakes/
+CD Mirandés,/team/110069/cd-mirand%C3%A9s/
+Vasco da Gama,/team/569/vasco-da-gama/
+Dynamo Dresden,/team/503/dynamo-dresden/
+Tondela,/team/112516/tondela/
+Banfield,/team/110404/banfield/
+1. FC Heidenheim,/team/111235/1-fc-heidenheim/
+IFK Göteborg,/team/319/ifk-g%C3%B6teborg/
+AJ Auxerre,/team/57/aj-auxerre/
+Karlsruher SC,/team/1832/karlsruher-sc/
+FC Sochaux,/team/226/fc-sochaux/
+PEC Zwolle,/team/1914/pec-zwolle/
+Bolton,/team/4/bolton/
+Once Caldas,/team/101106/once-caldas/
+FC Orenburg,/team/112261/fc-orenburg/
+ES Troyes AC,/team/294/es-troyes-ac/
+Aberdeen,/team/77/aberdeen/
+Sangju Sangmu,/team/2055/sangju-sangmu/
+Avaí,/team/111976/ava%C3%AD/
+Fl. Varela,/team/111710/fl-varela/
+Colorado Rapids,/team/694/colorado-rapids/
+Sydney FC,/team/111400/sydney-fc/
+KAS Eupen,/team/2013/kas-eupen/
+Grasshopper,/team/322/grasshopper/
+Águilas Doradas,/team/112578/%C3%A1guilas-doradas/
+Hearts,/team/80/hearts/
+Ulsan Hyundai,/team/1473/ulsan-hyundai/
+FC St. Gallen,/team/898/fc-st-gallen/
+Spal,/team/112791/spal/
+Jeju United,/team/1478/jeju-united/
+Gamba Osaka,/team/112093/gamba-osaka/
+San Juan,/team/111713/san-juan/
+Nîmes Olympique,/team/224/n%C3%AEmes-olympique/
+Vålerenga Fotball,/team/920/v%C3%A5lerenga-fotball/
+Melb. Victory,/team/111397/melb-victory/
+KVC Westerlo,/team/681/kvc-westerlo/
+Al. Petrolera,/team/112579/al-petrolera/
+Brisbane Roar,/team/111395/brisbane-roar/
+CD Palestino,/team/111328/cd-palestino/
+Barnsley,/team/1932/barnsley/
+UCAM Murcia,/team/113216/ucam-murcia/
+RC Strasbourg,/team/76/rc-strasbourg/
+Pohang Steelers,/team/1474/pohang-steelers/
+Rotherham Utd,/team/1797/rotherham-utd/
+Würzburger Kickers,/team/110197/w%C3%BCrzburger-kickers/
+Austria Wien,/team/256/austria-wien/
+Patronato,/team/110581/patronato/
+Vissel Kobe,/team/101146/vissel-kobe/
+Depor. Iquique,/team/112531/depor-iquique/
+Jagiellonia,/team/110745/jagiellonia/
+BK Häcken,/team/711/bk-h%C3%A4cken/
+Melbourne City,/team/112224/melbourne-city/
+Odds BK,/team/1456/odds-bk/
+Amkar Perm,/team/110234/amkar-perm/
+Perugia,/team/199/perugia/
+Brescia,/team/190/brescia/
+Red Star FC,/team/111273/red-star-fc/
+Puebla,/team/110152/puebla/
+Kashiwa Reysol,/team/101145/kashiwa-reysol/
+Terni,/team/570/terni/
+Audax Italiano,/team/101097/audax-italiano/
+Erzgebirge Aue,/team/506/erzgebirge-aue/
+Deportes Temuco,/team/112709/deportes-temuco/
+AIK,/team/433/aik/
+Burton Albion,/team/15015/burton-albion/
+Excelsior,/team/1971/excelsior/
+CD Antofagasta,/team/112533/cd-antofagasta/
+Wanderers,/team/110976/wanderers/
+N.E.C.,/team/1910/n-e-c/
+IFK Norrköping,/team/702/ifk-norrk%C3%B6ping/
+Sarandí,/team/110394/sarand%C3%AD/
+Pisa,/team/110738/pisa/
+Unión,/team/111716/uni%C3%B3n/
+Djurgårdens IF,/team/710/djurg%C3%A5rdens-if/
+AC Ajaccio,/team/614/ac-ajaccio/
+Sagan Tosu,/team/113160/sagan-tosu/
+Aarhus GF,/team/271/aarhus-gf/
+Perth Glory,/team/111399/perth-glory/
+Brisigonza,/team/113147/brisigonza/
+Pogoń Szczecin,/team/110746/pogo%C5%84-szczecin/
+La Equidad,/team/112523/la-equidad/
+Avellino,/team/2038/avellino/
+Zagłębie Lubin,/team/110749/zag%C5%82%C4%99bie-lubin/
+Molde FK,/team/417/molde-fk/
+CA Talleres,/team/112670/ca-talleres/
+Sparta R'dam,/team/100646/sparta-rdam/
+CD Everton,/team/112584/cd-everton/
+CD Huachipato,/team/111327/cd-huachipato/
+Vercelli,/team/112398/vercelli/
+Seongnam FC,/team/981/seongnam-fc/
+Borgocalcio,/team/1847/borgocalcio/
+Śląsk Wrocław,/team/111092/%C5%9Bl%C4%85sk-wroc%C5%82aw/
+Randers FC,/team/1786/randers-fc/
+SK Sturm Graz,/team/209/sk-sturm-graz/
+Go Ahead Eagles,/team/100632/go-ahead-eagles/
+IF Elfsborg,/team/700/if-elfsborg/
+Al Fateh,/team/112390/al-fateh/
+Strømsgodset IF,/team/922/str%C3%B8msgodset-if/
+Cracovia,/team/110747/cracovia/
+Rafaela,/team/110392/rafaela/
+Jeonnam Dragons,/team/1475/jeonnam-dragons/
+Trapani,/team/112410/trapani/
+Piast Gliwice,/team/111086/piast-gliwice/
+Valenciennes FC,/team/110456/valenciennes-fc/
+Cham. Niortais,/team/1813/cham-niortais/
+Royal Mouscron,/team/111560/royal-mouscron/
+Mar del Plata,/team/111707/mar-del-plata/
+Incheon United,/team/110765/incheon-united/
+Oxford United,/team/1951/oxford-united/
+Sheffield Utd,/team/1794/sheffield-utd/
+Tours FC,/team/110326/tours-fc/
+Clermont Foot,/team/1815/clermont-foot/
+Junín,/team/112713/jun%C3%ADn/
+US Orléans,/team/112276/us-orl%C3%A9ans/
+SK Brann,/team/919/sk-brann/
+Al Shabab,/team/111674/al-shabab/
+Stade Lavallois,/team/1814/stade-lavallois/
+FC Luzern,/team/897/fc-luzern/
+Patriotas,/team/112527/patriotas/
+Al Qadisiyah,/team/112391/al-qadisiyah/
+Yokohama F·Marinos,/team/101151/yokohama-f-marinos/
+Rochdale,/team/1955/rochdale/
+CD Cobresal,/team/110978/cd-cobresal/
+MK Dons,/team/1798/mk-dons/
+Aalborg BK,/team/820/aalborg-bk/
+Aalesunds FK,/team/1755/aalesunds-fk/
+Temperley,/team/112904/temperley/
+Jaguares,/team/112903/jaguares/
+Amiens SC,/team/1816/amiens-sc/
+Cittadella,/team/111993/cittadella/
+WS Wanderers,/team/112427/ws-wanderers/
+Al Taawoun,/team/112393/al-taawoun/
+Bury,/team/1945/bury/
+Southend United,/team/1954/southend-united/
+Inverness CT,/team/620/inverness-ct/
+Bourg-Péronnas,/team/110576/bourg-p%C3%A9ronnas/
+SønderjyskE,/team/1447/s%C3%B8nderjyske/
+Well. Phoenix,/team/111766/well-phoenix/
+Hammarby IF,/team/708/hammarby-if/
+St. Johnstone,/team/100804/st-johnstone/
+Termalica,/team/112510/termalica/
+Millwall,/team/97/millwall/
+Ross County,/team/631/ross-county/
+Northampton,/team/1930/northampton/
+Scunthorpe Utd,/team/1949/scunthorpe-utd/
+Kalmar FF,/team/1439/kalmar-ff/
+San Luis,/team/112668/san-luis/
+Adelaide United,/team/111393/adelaide-united/
+Latina,/team/112487/latina/
+Lyngby BK,/team/15001/lyngby-bk/
+Quilmes,/team/110554/quilmes/
+Deportivo Pasto,/team/111723/deportivo-pasto/
+Bradford City,/team/1804/bradford-city/
+Atlético Huila,/team/112528/atl%C3%A9tico-huila/
+Bahía Blanca,/team/110398/bah%C3%ADa-blanca/
+Port Vale,/team/1928/port-vale/
+Al Raed,/team/112392/al-raed/
+Odense BK,/team/272/odense-bk/
+Górnik Łęczna,/team/110565/g%C3%B3rnik-%C5%82%C4%99czna/
+Esbjerg fB,/team/1445/esbjerg-fb/
+Notts County,/team/1937/notts-county/
+Omiya Ardija,/team/112345/omiya-ardija/
+Kilmarnock,/team/82/kilmarnock/
+Sarpsborg 08 FF,/team/112199/sarpsborg-08-ff/
+Doncaster,/team/142/doncaster/
+Korona Kielce,/team/111083/korona-kielce/
+Östersunds FK,/team/113173/%C3%B6stersunds-fk/
+Admira Wacker,/team/111821/admira-wacker/
+Partick Thistle,/team/1754/partick-thistle/
+FC Lausanne,/team/1862/fc-lausanne/
+AFC Wimbledon,/team/112259/afc-wimbledon/
+Helsingborgs IF,/team/432/helsingborgs-if/
+AC Horsens,/team/1446/ac-horsens/
+FC Nordsjælland,/team/1788/fc-nordsj%C3%A6lland/
+Wolfsberger AC,/team/111822/wolfsberger-ac/
+Örebro SK,/team/705/%C3%B6rebro-sk/
+Ruch Chorzów,/team/874/ruch-chorz%C3%B3w/
+Oldham Athletic,/team/1920/oldham-athletic/
+Boyacá Chicó,/team/112019/boyac%C3%A1-chic%C3%B3/
+SV Mattersburg,/team/1785/sv-mattersburg/
+Portsmouth,/team/1790/portsmouth/
+Arka Gdynia,/team/111082/arka-gdynia/
+SV Ried,/team/780/sv-ried/
+Wisła Płock,/team/1569/wis%C5%82a-p%C5%82ock/
+SCR Altach,/team/15009/scr-altach/
+Vegalta Sendai,/team/112836/vegalta-sendai/
+Walsall,/team/1803/walsall/
+Viking FK,/team/300/viking-fk/
+Suwon FC,/team/112558/suwon-fc/
+Cortuluá,/team/112934/cortulu%C3%A1/
+Hamilton,/team/184/hamilton/
+Fleetwood Town,/team/112260/fleetwood-town/
+Peterborough,/team/1938/peterborough/
+Envigado,/team/112526/envigado/
+Al Faisaly,/team/112389/al-faisaly/
+Motherwell,/team/83/motherwell/
+Swindon Town,/team/1934/swindon-town/
+Stabæk Fotball,/team/917/stab%C3%A6k-fotball/
+Al Khaleej,/team/112883/al-khaleej/
+Dundee FC,/team/180/dundee-fc/
+Exeter City,/team/143/exeter-city/
+Coventry City,/team/1800/coventry-city/
+Ventforet Kofu,/team/113162/ventforet-kofu/
+Shonan Bellmare,/team/113161/shonan-bellmare/
+Mansfield Town,/team/1940/mansfield-town/
+Chesterfield,/team/1924/chesterfield/
+Al Wehda,/team/112408/al-wehda/
+FC Lugano,/team/10032/fc-lugano/
+Al-Ettifaq,/team/112096/al-ettifaq/
+Bristol Rovers,/team/1962/bristol-rovers/
+Carlisle United,/team/1480/carlisle-united/
+SKN St. Pölten,/team/112075/skn-st-p%C3%B6lten/
+Viborg FF,/team/1443/viborg-ff/
+Gillingham,/team/1802/gillingham/
+Jönköpings Södra IF,/team/112130/j%C3%B6nk%C3%B6pings-s%C3%B6dra-if/
+Plymouth Argyle,/team/1929/plymouth-argyle/
+Iwata,/team/101144/iwata/
+Blackpool,/team/1926/blackpool/
+Shrewsbury,/team/127/shrewsbury/
+Colchester,/team/1935/colchester/
+Leyton Orient,/team/1958/leyton-orient/
+FK Haugesund,/team/1463/fk-haugesund/
+Tromsø IL,/team/418/troms%C3%B8-il/
+Lillestrøm SK,/team/299/lillestr%C3%B8m-sk/
+Crawley Town,/team/110890/crawley-town/
+Cambridge Utd,/team/1944/cambridge-utd/
+HJK Helsinki,/team/100325/hjk-helsinki/
+Newcastle Jets,/team/111398/newcastle-jets/
+Wycombe,/team/1933/wycombe/
+FC Vaduz,/team/286/fc-vaduz/
+Central Coast,/team/111396/central-coast/
+Luton Town,/team/1923/luton-town/
+IK Start,/team/1524/ik-start/
+Sogndal,/team/1465/sogndal/
+FC Thun,/team/1715/fc-thun/
+Silkeborg IF,/team/270/silkeborg-if/
+GIF Sundsvall,/team/1596/gif-sundsvall/
+Al Batin,/team/112990/al-batin/
+FC Tom Tomsk,/team/110233/fc-tom-tomsk/
+Albirex Niigata,/team/112906/albirex-niigata/
+Nagoya,/team/112092/nagoya/
+Avispa Fukuoka,/team/113186/avispa-fukuoka/
+Accrington,/team/110313/accrington/
+Yeovil Town,/team/346/yeovil-town/
+GwangJu FC,/team/112258/gwangju-fc/
+FK Bodø/Glimt,/team/918/fk-bod%C3%B8-glimt/
+Dundalk,/team/837/dundalk/
+Gefle IF,/team/111277/gefle-if/
+Stevenage,/team/361/stevenage/
+Grimsby Town,/team/92/grimsby-town/
+Hartlepool,/team/1941/hartlepool/
+Newport County,/team/112254/newport-county/
+Barnet,/team/135/barnet/
+Falkenbergs FF,/team/112169/falkenbergs-ff/
+Cork City,/team/422/cork-city/
+St. Pats,/team/423/st-pats/
+Crewe Alexandra,/team/121/crewe-alexandra/
+Cheltenham Town,/team/1936/cheltenham-town/
+Shamrock Rovers,/team/306/shamrock-rovers/
+Fortaleza FC,/team/112834/fortaleza-fc/
+Morecambe,/team/357/morecambe/
+Bray Wanderers,/team/838/bray-wanderers/
+Sligo Rovers,/team/563/sligo-rovers/
+Derry City,/team/445/derry-city/
+Bohemian FC,/team/305/bohemian-fc/
+Finn Harps,/team/111131/finn-harps/
+Galway United,/team/1571/galway-united/
+Longford Town,/team/1586/longford-town/
+Wexford Youths,/team/111968/wexford-youths/
+Free Agents,/team/111592/free-agents/
