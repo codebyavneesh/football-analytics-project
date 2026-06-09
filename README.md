@@ -88,7 +88,7 @@ The dataset contains football games data with the following files:
 
 ## 📸 Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard]([dashboard.png](https://github.com/codebyavneesh/football-analytics-project/blob/main/football_games_project/Dashboard.png))
 
 > **Dashboard Highlights:**
 > - 📊 **17.34K** Players | **1M** Total Rating | **160** Nationalities | **65.51** Avg Speed
