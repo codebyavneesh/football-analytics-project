@@ -90,6 +90,13 @@ The dataset contains football games data with the following files:
 
 ![Power BI Dashboard](dashboard.png)
 
+> **Dashboard Highlights:**
+> - 📊 **17.34K** Players | **1M** Total Rating | **160** Nationalities | **65.51** Avg Speed
+> - 🗺️ World map showing player nationality distribution
+> - 🍩 Max Rating by Club — Zenit (22.59%), Yeovil T (20%), ZagÃÂA (19.83%), Zulte-W (17.91%)
+> - 📈 Avg Speed vs Avg Age by Club — Manchester, Napoli, Juventus, V.Guima, Liverpool, Mode FK, Gillingham, Milan, PSG
+> - 📊 Max Rating by Player Name — Zoran, Zurotuza, Zouhair, Zydrunas and more
+
 ---
 
 ## ▶️ How to Run
